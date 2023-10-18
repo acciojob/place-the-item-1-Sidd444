@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+.container{
+	display:flex;
+	justify-content:space-between
+}
+.three{
+	background-color:green;
+	color:black;
+	width:80px;
+	height:80px;
+	font-size:30px
+}
+.two{
+	background-color:blue;
+	color:black;
+	width:80px;
+	height:80px;
+	font-size:30px;
+}
+.one{
+	background-color:red;
+	color:black;
+	width:80px;
+	height:80px;
+	font-size:30px;
+}
