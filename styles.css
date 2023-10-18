@@ -1,16 +1,17 @@
 
 /* Your CSS Code here. */
-.container{
+.holder{
 	display:flex;
 	justify-content:space-between;
-	flex-wrap:wrap;
+	
 }
 .three{
 	background-color:green;
 	color:black;
 	width:80px;
 	height:80px;
-	font-size:30px
+	font-size:30px;
+	flex-wrap:wrap;
 }
 .two{
 	background-color:blue;
@@ -18,6 +19,7 @@
 	width:80px;
 	height:80px;
 	font-size:30px;
+	flex-wrap:wrap;
 }
 .one{
 	background-color:red;
@@ -25,4 +27,5 @@
 	width:80px;
 	height:80px;
 	font-size:30px;
+	flex-wrap:wrap;
 }
